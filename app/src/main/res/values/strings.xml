@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Marvel Jukebox</string>
+    <string name="splash">Marvel 10Years\nJukebox</string>
+    <string name="title">Marvel 10Years Jukebox</string>
+    <string name="saved_music">저장한 노래</string>
+</resources>
